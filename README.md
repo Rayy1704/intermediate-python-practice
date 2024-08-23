@@ -5,16 +5,6 @@ Welcome to my intermediate Python project! This repository showcases my work usi
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Frameworks and Libraries](#frameworks-and-libraries)
-- [Development Environment](#development-environment)
-- [Running the Code](#running-the-code)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Project Overview
 
 This project includes several Python scripts and notebooks that demonstrate data analysis, visualization, and more advanced Python concepts. Whether you’re interested in numerical computations, data manipulation, or plotting, this repository has something for you.
