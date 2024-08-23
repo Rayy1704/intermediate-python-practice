@@ -1,5 +1,4 @@
-# My Python Project
-
+# Intermediate Python Practice
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
 Welcome to my intermediate Python project! This repository showcases my work using various Python libraries to solve complex problems and visualize data. Below you’ll find information about the frameworks and tools used, and how you can run the code natively on your machine.
