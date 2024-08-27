@@ -73,7 +73,7 @@ To run the code natively on your machine, follow these steps:
 
     ```bash
     git clone https://github.com/rayy1704/intermediate-python-practice.git
-    cd your-repo
+    cd your-directory
     ```
 
 2. **Set Up a Virtual Environment:**
