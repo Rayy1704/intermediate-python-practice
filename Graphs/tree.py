@@ -7,8 +7,16 @@ class Node:
         child.parent=self
         self.children.append(child)
 
+    def getLevel(self):
+        level = 0
+        p = self.parent
+        while p:
+            level += 1
+            p = p.parent
+        return level
+    
     def display(self):
-        print(f"{"\t"*self.getLevel()}{self.data}")
+        print(f"{"\t"*self.getLevel()+"|-"}{self.data}")
         for child in self.children:
             child.display()
 
