@@ -29,5 +29,4 @@ def crawl(start_url):
                     queue.append(full_url)
         except Exception as e:
             print(f"Error visiting {base_url}: {e}")
-
 crawl(input("Enter Your Link : "))  # Replace with the starting URL you want to crawl
