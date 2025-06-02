@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from urllib.parse import urljoin, urlparse
-from bs4 import BeautifulSoup
 from collections import deque
+from bs4 import BeautifulSoup
 def crawl(start_url):
     visited = set()
     queue=deque([start_url])
